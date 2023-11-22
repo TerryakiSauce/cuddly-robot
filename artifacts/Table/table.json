@@ -1,0 +1,29 @@
+{
+	"id": "d3d1aed9-673c-4b1e-ac7f-c77237529116",
+	"createdAt": "2023-11-22T12:44:03.000Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "6c17ff7a-c567-43b7-c8a1-da15a8976aae",
+			"fieldName": "name",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "db76ac5d-8e2c-4e21-a4a4-b05daaf419d7",
+			"fieldName": "age",
+			"fieldType": "integer",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "table",
+	"description": null,
+	"ver": "23.11.22.1344",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "0714b13e-9732-4b00-ae0f-ded42e3517ce",
+	"rolesRead": [],
+	"rolesWrite": []
+}

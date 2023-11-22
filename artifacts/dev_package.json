@@ -1,19 +1,25 @@
 {
-	"id": "f0695e5d-3689-ee11-8925-0022489e2d9f",
-	"createdAt": "2023-11-22T12:55:09.303Z",
-	"createdBy": "terry.avgenikou@neptune-software.com",
+	"id": "0714b13e-9732-4b00-ae0f-ded42e3517ce",
+	"createdAt": "2023-11-22T12:41:30.000Z",
+	"createdBy": "admin",
 	"git": {
 		"remote": "https://github.com/TerryakiSauce/cuddly-robot.git"
 	},
-	"name": "testDeleteLater",
+	"name": "TEST",
 	"description": null,
-	"ver": "23.11.22.1259",
+	"ver": "23.11.22.141",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
-	"dictionary": [],
+	"dictionary": [
+		{
+			"id": "d3d1aed9-673c-4b1e-ac7f-c77237529116",
+			"name": "table",
+			"description": null
+		}
+	],
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
@@ -24,9 +30,9 @@
 	"api_group": [],
 	"tile": [
 		{
-			"id": "4e5e0dce-e33f-ed11-a27c-501ac58009bc",
+			"id": "ec91f00e-b066-4a2b-87cc-ea0c11e7db80",
 			"description": null,
-			"name": "4WorkFlowInbox"
+			"name": "fqwefqwef"
 		}
 	],
 	"category": [],
