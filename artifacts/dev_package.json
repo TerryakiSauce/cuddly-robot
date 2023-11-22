@@ -1,0 +1,47 @@
+{
+	"id": "f0695e5d-3689-ee11-8925-0022489e2d9f",
+	"createdAt": "2023-11-22T12:55:09.303Z",
+	"createdBy": "terry.avgenikou@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/TerryakiSauce/cuddly-robot.git"
+	},
+	"name": "testDeleteLater",
+	"description": null,
+	"ver": "23.11.22.1259",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "4e5e0dce-e33f-ed11-a27c-501ac58009bc",
+			"description": null,
+			"name": "4WorkFlowInbox"
+		}
+	],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
